@@ -5,5 +5,5 @@
 + [LinearRegressionPolynomialFeature](Regression/FreeFallPhysicsEquation.ipynb) is an example of free fall equation 
 
 
-####### Terms used in bussiness said by ML trainer Dr. Ray Shrestha
+###### Terms used in bussiness said by ML trainer Dr. Ray Shrestha
  + Minimum Viable Product(MVP) => It is a development technique in which a new product is introduced in the market with basic features, but     enough to get the attention of the consumers. The final product is released in the market only after getting sufficient feedback from the product's initial users.
